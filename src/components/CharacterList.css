@@ -1,0 +1,14 @@
+.search-bar .col-md-6 {
+  position: relative;
+}
+
+.search-bar button {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.form-control:focus,
+.form-control:hover {
+  box-shadow: 0 0 0 transparent;
+}
